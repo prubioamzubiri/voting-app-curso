@@ -1,0 +1,3 @@
+kubectl rollout history #historial de acutalizaciones
+kubectl rollut status
+kubectl rollout undo 
